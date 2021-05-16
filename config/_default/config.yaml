@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Kara A. Fulton, PhD # Website name
-baseurl: https://kara-fulton.netlify.app/ # Website URL
+baseurl: https://karafulton.netlify.app/ # Website URL
 copyright: &copy {year} Kara A. Fulton # Footer text, e.g. '© {year} Me'
 
 ############################
