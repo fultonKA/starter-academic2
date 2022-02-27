@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: kara.fulton@caesar.de
+email: kara_fulton@hms.harvard.edu
 phone: ''
 address:
-  street: Ludwig-Erhard-Allee 2
-  city: Bonn
-  region: NRW
-  postcode: '53175'
-  country: Germany
-  country_code: DE
+  street: 200 Longwood Avenue
+  city: Boston
+  region: MA
+  postcode: '02115'
+  country: United States
+  country_code: USA
 coordinates:
-  latitude: '50.7050389'
-  longitude: '7.1506533'
+  latitude: '42.33622153390756'
+  longitude: '-71.10235161934438'
 directions: ''
 office_hours: ''
  # - 'Monday 10:00 to 13:00'
